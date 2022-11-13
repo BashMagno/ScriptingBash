@@ -21,7 +21,7 @@ function sp (){
     echo -e ""
     echo -e ""
     echo -e "$red ---------------------------\n"
-    echo -e "$magenta SCRIPT REALIZADO POR M4GNO\n"
+    echo -e "$magenta SCRIPT REALIZADO POR M4GNO (Moreno)\n"
     echo -e "$red ---------------------------"
     echo -e "\n"
     echo -e "$cyan"
